@@ -1,5 +1,5 @@
-# ELM_ObjectiveC_MNIST
-MNIST OCR based on ELM by ObjectiveC
+# ELM_Matlab_MNIST
+MNIST OCR based on ELM by Matlab
 
 fork this from http://www.extreme-learning-machines.org/ and just for study.
 
